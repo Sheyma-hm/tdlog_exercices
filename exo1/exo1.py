@@ -19,4 +19,3 @@ i = Item(10, 20)
 
 # Accéder aux attributs price et weight
 print(f"Price: {i.price}, Weight: {i.weight}")
-
